@@ -1,3 +1,7 @@
-#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="CL.m3u"
-#EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
-https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
+#EXTM3U
+
+#EXTINF: -1. tvg-log = https://image.tmdb.org/t/p/w185/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg, MX: Top Gun: Maverick
+https://ww7.cuevana3.fan/pelicula/top-gun-maverick/
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",DUBAI SPORTS
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
